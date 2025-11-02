@@ -3,7 +3,4 @@
 > Grafika Komputer Lab 5
 
 ## Output
-
-![Output - Spongebob (PNG)](Output/Spongebob.png)
-
 ![Output - Spongebob (GIF)](Output/Spongebob.gif)
